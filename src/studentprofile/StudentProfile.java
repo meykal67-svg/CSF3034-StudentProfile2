@@ -17,6 +17,9 @@ public class StudentProfile {
        System.out.println("Name: Muhammad Amir Haikal Bin Mohd Adnan");
        System.out.println("Student ID: S87264");
        System.out.println("Programme: Bachelor of Computer Science");
+       System.out.println("Semestar: Semestar 1");
+       System.out.println("Favourite language: Java");
+       
     }
     
 }
